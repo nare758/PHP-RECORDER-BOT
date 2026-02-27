@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # --- Setup ---
 API_ID = "20918855"
 API_HASH = "c511716301ab7675a39409a55408eb02"
-BOT_TOKEN = "8537051456:AAF3AuGaideOrRKL2aslYMUjVzBSMj9_5Us"
+BOT_TOKEN = "8531617857:AAEutx4YBcpBzJN-hxmfEz1-bQezohbGlI0"
 
 bot = Client("ProStreamer", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
